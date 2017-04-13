@@ -1,6 +1,6 @@
 # tor-button
 
-Requisite files to run Tor Browser Button add-on.
+Source code for Tor Browser Button add-on. In order to run this addon you need TOR connection on your PC or MAC. Here, you can find requisite files to run Tor Browser Button add-on.
 
 In order to start working with Tor Browser Button add-on, please follow the below steps.
 

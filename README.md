@@ -4,9 +4,10 @@ Source code for Tor Browser Button add-on. In order to run this addon you need T
 
 In order to start working with Tor Browser Button add-on, please follow the below steps.
 
-1) If you have Windows machine, please download and unzip "win.zip" file to your computer, and if you have Mac download and unzip "mac.zip".
-2) For windows machine please open downloaded "win" folder and run "run.bat" file within the folder. For Mac please open "win" folder and run "run.sh" file.
-3) You will see the screen with 6 options (as below):
+1) Please visit folder (https://github.com/jeremy-jr-benthum/tor-button/releases).
+2) If you have Windows machine, please download and unzip "win.zip" file to your computer, and if you have Mac download and unzip "mac.zip".
+3) For windows machine please open downloaded "win" folder and run "run.bat" file within the folder. For Mac please open "win" folder and run "run.sh" file.
+4) You will see the screen with 6 options (as below):
 
 ------------  Configure TOR  ------------
 1. Start TOR connection

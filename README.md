@@ -1,4 +1,4 @@
---- TOR proxy patch for Windows and Mac ---
+TOR proxy patch for Windows and Mac
 
 This patch is made for starting TOR proxy on your PC or MAC. TOR connection is required to use the following addons.
 

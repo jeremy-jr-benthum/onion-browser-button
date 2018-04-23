@@ -1,11 +1,16 @@
-# tor-button
+--- TOR proxy patch for Windows and Mac ---
 
-Source code for Tor Browser Button add-on. 
+This patch is made for starting TOR proxy on your PC or MAC. TOR connection is required to use the following addons.
 
-1. Chrome add-on: https://chrome.google.com/webstore/detail/tor-browser-button/goimpaiignmlnmdnpnkbbjoophmbebhp
-2. Opera add-on: https://addons.opera.com/en/extensions/details/tortm-browser-button/
+Tor™ Browser Button add-on: http://mybrowseraddon.com/tor-button.html
+1. Chrome: https://chrome.google.com/webstore/detail/tor-browser-button/goimpaiignmlnmdnpnkbbjoophmbebhp
+2. Opera: https://addons.opera.com/en/extensions/details/tortm-browser-button/
 
-In order to run Tor Browser Button add-on you need TOR connection on your PC or MAC. Here, you can find requisite files to run TOR on your machine. Please follow the below steps.
+Browse in Tor™ add-on: http://mybrowseraddon.com/browse-in-tor.html
+1. Chrome: https://chrome.google.com/webstore/detail/browse-in-tor/hfddekpiekhlkkgeaobcdkeonpkinipo
+2. Opera: https://addons.opera.com/en/extensions/details/browse-in-tortm/
+
+In order to run (Tor™ Browser Button) or (Browse in Tor™) add-ons you need TOR connection on your PC or MAC. Here, you can find requisite files in order to run TOR proxy on your machine. Please follow the below steps.
 
 1) Please visit folder (https://github.com/jeremy-jr-benthum/tor-button/releases).
 2) If you have Windows machine, please download and unzip "win.zip" file to your computer, and if you have Mac download and unzip "mac.zip".

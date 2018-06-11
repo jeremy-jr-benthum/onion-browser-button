@@ -5,6 +5,7 @@ This patch is made for starting TOR proxy on your PC or MAC. TOR connection is r
 Tor™ Browser Button add-on: http://mybrowseraddon.com/tor-button.html
 1. Chrome: https://chrome.google.com/webstore/detail/tor-browser-button/goimpaiignmlnmdnpnkbbjoophmbebhp
 2. Opera: https://addons.opera.com/en/extensions/details/tortm-browser-button/
+3. Firefox: https://addons.mozilla.org/en-US/firefox/addon/tortm-browser-button/
 
 Browse in Tor™ add-on: http://mybrowseraddon.com/browse-in-tor.html
 1. Chrome: https://chrome.google.com/webstore/detail/browse-in-tor/hfddekpiekhlkkgeaobcdkeonpkinipo

@@ -1,4 +1,4 @@
-TOR proxy patch for - Onion Browser Button - and - Browse with Onion - addons in Windows and Mac.
+Proxy patch for - Onion Browser Button - and - Browse with Onion - addons in Windows and Mac.
 
 This patch is made for starting TOR proxy on your PC or MAC. TOR connection is required to use the following addons.
 

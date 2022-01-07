@@ -1,4 +1,5 @@
-Proxy patch for - Onion Browser Button - and - Browse with Onion - addons in Windows and Mac.
+Proxy patch for - Onion Browser Button - and - Browse with Onion - addons in Linux.
+This fork is a linux patch for the Onion Browser Button Extension.
 
 This patch is made for starting TOR proxy on your PC or MAC. TOR connection is required to use the following addons.
 
